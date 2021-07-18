@@ -15,7 +15,7 @@ My code takes the json data and calculates the average cubic weight and spits it
     
 5.  Run: pip3 install -r requirements.txt
 
-6. Run: python3 __init__.py
+6. Run: python3 app.py
 
     
     
